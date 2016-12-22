@@ -16,4 +16,3 @@ let g:go_highlight_build_constraints = 1
 
 let g:syntastic_go_checkers = ['golint', 'govet', 'errcheck']
 let g:user_emmet_install_global = 0
-colorscheme zellner
